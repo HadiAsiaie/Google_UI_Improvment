@@ -10,7 +10,7 @@
     "content_scripts":[
         {
             "matches": ["https://www.google.com/*","http://www.google.com/*","http://74.125.26.138/*"],
-            "js": ["del_node.js"]
+            "js": ["del_nodes.js"]
         }
     ]
 }
