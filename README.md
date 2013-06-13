@@ -10,4 +10,4 @@ How it works:
   
    
 Please don't promote this extension. I don't think google is gonna like this :)
-  
+====
