@@ -9,8 +9,9 @@ Features:
 Screenshots
 =
 
-<img src="https://github.com/HadiAsiaie/Google_UI_Improvment/blob/master/screenshots/Google.png" width="100px">
+<img src="https://github.com/HadiAsiaie/Google_UI_Improvment/blob/master/screenshots/Homepage.png" width="100px">
 
+<img src="https://github.com/HadiAsiaie/Google_UI_Improvment/blob/master/screenshots/search_result.png" width="100px">
 <a href="http://getbootstrap.com">
   <img src="http://twitter.github.com/bootstrap/assets/img/bootstrap-docs-readme.png" width="100px">
 </a>
