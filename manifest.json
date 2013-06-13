@@ -3,7 +3,7 @@
 
     "name": "Google UI improvement",
     "description": "It just removes some elements of google search page to make it nicer;make it like old google",
-    "version": "1.0",
+    "version": "1.1",
 
     "browser_action": {
     },
