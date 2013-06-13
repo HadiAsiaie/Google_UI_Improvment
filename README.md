@@ -6,6 +6,11 @@ Features:
    
    2) No additional menu in google.com web page (Just text area to inter text)
 
+Screenshots
+=
+
+<img src="https://github.com/HadiAsiaie/Google_UI_Improvment/tree/master/screenshots/Google.png" width="100px">
+
 
 How it works:
 =
