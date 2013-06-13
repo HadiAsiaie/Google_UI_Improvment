@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+
+    "name": "Google UI improvement",
+    "description": "It just removes some elements of google search page to make it nicer;make it like old google",
+    "version": "1.0",
+
+    "browser_action": {
+    },
+    "content_scripts":[
+        {
+            "matches": ["https://www.google.com/*","http://www.google.com/*","http://74.125.26.138/*"],
+            "js": ["del_node.js"]
+        }
+    ]
+}
