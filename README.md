@@ -1,10 +1,8 @@
 A chrome extension to make Google search page nicer!
 
 Features:
-   1) No adds in your search result!   
-   2)Why you don't go to next line
+   1) No adds in your search result!
    2) No additional menu in google.com web page (Just text area to inter text)
-   3)
 
 
 How it works:
